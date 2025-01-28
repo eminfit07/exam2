@@ -1,0 +1,17 @@
+.bg-image {
+    background-image: url(../img/intro-bg.jpg);
+    background-size: cover;
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.bg-image-2 {
+    background-image: url(../img/register-bg.jpg);
+    background-size: cover;
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.w{
+    width: 500px;
+}
